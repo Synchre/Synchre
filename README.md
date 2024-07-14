@@ -1,4 +1,4 @@
-#👋 Hi, here is @synchre
+# 👋 Hi, here is @synchre
 I'm currently a student in NUIST.
 <!---
 synchre/synchre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
